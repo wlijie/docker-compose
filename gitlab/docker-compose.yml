@@ -1,3 +1,5 @@
+version: '2'
+
 gitlab-postgresql:
   restart: always
   image: sameersbn/postgresql:10-2
